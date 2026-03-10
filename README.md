@@ -23,5 +23,9 @@ This project predicts whether a loan application will be approved or rejected us
 ## Results
 Random Forest achieved higher accuracy compared to Logistic Regression.
 
+## You can access from here
+https://kailashvema-pxubvtncmvvwtbuokt7ypr.streamlit.app/
+
 ## Author
+
 Kailash Vema
